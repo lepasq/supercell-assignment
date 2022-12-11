@@ -1,0 +1,6 @@
+{ "type": "make_friends", "user1": "12-345", "user2": "67-890" }
+{ "type": "make_friends", "user1": "ab", "user2": "12-345" }
+{ "type": "update", "user": "ab", "timestamp": 100, "values": { "foo": "bar" }}
+{ "type": "update", "user": "ab", "timestamp": 99, "values": { "foo": "bar", "baz": "crux" }}
+{ "type": "update", "user": "ab", "timestamp": 101, "values": { "foo": "bar" }}
+{ "type": "del_friends", "user1": "12-345", "user2": "67-890" }

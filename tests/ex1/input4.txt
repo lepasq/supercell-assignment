@@ -1,0 +1,6 @@
+{ "type": "make_friends", "user1": "ab", "user2": "cd" }
+{ "type": "update", "user": "ab", "timestamp": 100, "values": { "foo": "bar" }}
+{ "type": "update", "user": "ab", "timestamp": 99, "values": { "bar": "crux" }}
+{ "type": "update", "user": "ab", "timestamp": 98, "values": { "alice": "bob" }}
+{ "type": "update", "user": "ab", "timestamp": 97, "values": { "foo": "bar" }}
+{ "type": "update", "user": "ab", "timestamp": 99, "values": { "foo": "old_message" }}
