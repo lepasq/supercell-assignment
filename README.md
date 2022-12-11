@@ -1,5 +1,5 @@
 # Supercell Internship Assignment
-Solution for [Supercell 2023 SWE Intern Exercise](https://sc-id-intern-exercise.s3.us-east-1.amazonaws.com/intern.pdf)
+Solution for [Supercell 2023 SWE Intern Exercise](https://sc-id-intern-exercise.s3.us-east-1.amazonaws.com/intern.pdf).
 
 You can build the binaries for both exercises using
 ```sh
