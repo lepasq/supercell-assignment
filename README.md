@@ -7,8 +7,7 @@ make build
 ```
 
 You can run the program the following way:
-sh
-```
+```sh
 cd ex1/     
 my_program -i <input_file>
 
@@ -20,8 +19,7 @@ my_program -i <input_file>
 
 
 You can run the program manually the following way:
-sh
-```
+```sh
 cd ex1/
 my_program -i ../tests/ex1/input1.txt
 my_program -i ../tests/ex1/input2.txt
@@ -29,8 +27,7 @@ my_program -i ../tests/ex1/input3.txt
 ```
 
 And for exercise 2 respectively:
-sh
-```
+```sh
 cd ex2/
 my_program -i ../tests/ex2/input1.txt       
 my_program -i ../tests/ex2/input1.txt
@@ -38,8 +35,7 @@ my_program -i ../tests/ex2/input1.txt
 
 
 Alternatively you can run the test files for both exercises via
-sh
-```
+```sh
 make test
 ```
 which will also display the time to process each file.
